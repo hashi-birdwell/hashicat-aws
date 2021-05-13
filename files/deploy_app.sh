@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>BARK World!</h2></center>
-  Welcome to ${PREFIX}'s app.  Doggo up there says this training sucks ass. 
+  Welcome to ${PREFIX}'s app.  Doggo up there says this training is fun! 
   <!-- END -->
 
   </div>
